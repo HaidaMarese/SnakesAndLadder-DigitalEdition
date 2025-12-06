@@ -85,6 +85,8 @@ This project helped me practice:
 
 <img width="2602" height="1614" alt="Gameplay" src="https://github.com/user-attachments/assets/321d7fa6-ea4b-4f06-8ed1-872fd788a1a7" />
 
+<img width="2464" height="1598" alt="BestScore" src="https://github.com/user-attachments/assets/8b9e3e89-9a33-443a-a11f-c929962f7876" />
+
 
 ##  Technologies Used
 
