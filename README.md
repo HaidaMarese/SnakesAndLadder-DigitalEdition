@@ -1,4 +1,4 @@
-#Snakes & Ladders — Digital Edition (Unity 2D)
+## Snakes & Ladders — Digital Edition (Unity 2D)
 
 This repository contains my Unity 2D Snakes & Ladders digital game, developed for my coursework.
 The project recreates the classic board game experience in a digital format using modern UI, smooth animations, and sound integration.
